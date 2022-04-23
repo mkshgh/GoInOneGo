@@ -499,3 +499,4 @@ b := map[string]int{"Oslo": 1, "Bergen": 2, "Trondheim": 3, "Stavanger": 4}
 # REFERENCES
 - https://go.dev/doc/
 - https://www.w3schools.com/go/index.php
+- https://pkg.go.dev/std
