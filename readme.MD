@@ -1,4 +1,4 @@
-# LEARN GIT IN ONE GO
+# LEARN GO IN ONE GO
 
 ## RUN
 
